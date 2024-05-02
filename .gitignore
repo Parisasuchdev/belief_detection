@@ -1,3 +1,4 @@
 config/
 src/notebooks/tmp/
-src/notebooks/wandb
+src/notebooks/wandb/
+src/models/
