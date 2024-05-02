@@ -1,2 +1,3 @@
 config/
 src/notebooks/tmp/
+src/notebooks/wandb
