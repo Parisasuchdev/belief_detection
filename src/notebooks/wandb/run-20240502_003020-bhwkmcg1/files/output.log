@@ -1,2 +1,0 @@
-`use_cache=True` is incompatible with gradient checkpointing. Setting `use_cache=False`.
-/users/p/s/psuchdev/miniconda3/envs/llama_env/lib/python3.9/site-packages/torch/utils/checkpoint.py:464: UserWarning: torch.utils.checkpoint: the use_reentrant parameter should be passed explicitly. In version 2.4 we will raise an exception if use_reentrant is not passed. use_reentrant=False is recommended, but if you need to preserve the current default behavior, you can pass use_reentrant=True. Refer to docs for more details on the differences between the two variants.
